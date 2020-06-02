@@ -11,7 +11,7 @@ enum class STATE { YELLOW, RED, BLUE, PURPLE };
 
 
 SceneID scene1, scene2, scene3;
-ObjectID button1, button2, button3, button4, button4, button5, button6;
+ObjectID button1, button2, button3, button4, button5, button6;
 ObjectID player;
 
 TimerID timer;
